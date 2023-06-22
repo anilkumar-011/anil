@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anil/static/css/main.455934a9.css",
+    "main.js": "/anil/static/js/main.86202082.js",
+    "static/js/787.56adce65.chunk.js": "/anil/static/js/787.56adce65.chunk.js",
+    "static/media/Anilkumar_IT.pdf": "/anil/static/media/Anilkumar_IT.3195414bd1cc1d0d85eb.pdf",
+    "index.html": "/anil/index.html",
+    "main.455934a9.css.map": "/anil/static/css/main.455934a9.css.map",
+    "main.86202082.js.map": "/anil/static/js/main.86202082.js.map",
+    "787.56adce65.chunk.js.map": "/anil/static/js/787.56adce65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455934a9.css",
+    "static/js/main.86202082.js"
+  ]
+}
